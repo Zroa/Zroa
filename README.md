@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Zroa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Zroa/Zroa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Zroa.I will be a postgraduate in September 2021.
+- 👀 I’m interested in data mining.
+- 🌱 I’m currently learning optimization algorithms.
+- 📫 You can reach me at 1667086214@qq.com. 
